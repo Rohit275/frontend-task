@@ -1,0 +1,13 @@
+.videoArea {
+    display: grid;
+    width: 83%;
+}
+
+.videoArea > div {
+    margin: 8px 2px;
+}
+
+.videos {
+    display: flex;
+    justify-content: space-around;
+}
